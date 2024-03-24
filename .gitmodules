@@ -1,0 +1,3 @@
+[submodule "MyApplication3"]
+	path = MyApplication3
+	url = https://github.com/superzhangbao/MyApplication3.git
